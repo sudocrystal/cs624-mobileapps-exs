@@ -1,7 +1,7 @@
 # cs624-examples
 HOS Examples for CS 624 Full-Stack Development - Mobile App
 
-Students can find the examples that will used for their practices in lecture or HOS (Hands-on Skills).
+Students can find the examples that will be used for their practices in lecture or HOS (Hands-on Skills).
 If you find any mistakes, please contact chungsam@cityu.edu.
 
 * Module 01 - Cloud-Based Development Environment 
