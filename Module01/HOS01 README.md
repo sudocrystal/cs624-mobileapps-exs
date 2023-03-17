@@ -32,8 +32,8 @@
   * [CSS - justify-content](https://www.w3schools.com/cssref/css3_pr_justify-content.php#:~:text=Definition%20and%20Usage,to%20align%20the%20items%20vertically.)
   * [CSS - align-items](https://www.w3schools.com/cssref/css3_pr_align-items.php)
 * JavaScript
-  * [Javascript - import & export](https://www.w3schools.com/js/js_modules)
-  * [Javascript - function](https://www.w3schools.com/js/js_functions.asp)
+  * [JavaScript - import & export](https://www.w3schools.com/js/js_modules)
+  * [JavaScript - function](https://www.w3schools.com/js/js_functions.asp)
 * Comment Statement
   * [React Native or React Comment Statement](https://aboutreact.com/react-native-comments/)
   * [JavaScript Comment Statement](https://www.w3schools.com/js/js_comments.asp)
