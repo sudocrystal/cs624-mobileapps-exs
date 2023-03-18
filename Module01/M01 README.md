@@ -1,4 +1,4 @@
-# HOP01 Colud-Based Development Environment
+# Module 01 - Colud-Based Development Environment
 ##  Learning Outcomes
 1. Understand a cloud-based development environment (Codesapces) and an open-source platform for making universal native apps with JavaScript and Reac (Expo). 
 2. Apply Codespaces and Expo to a simple React Native mobile app.
