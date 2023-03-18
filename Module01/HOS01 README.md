@@ -34,6 +34,7 @@
 * JavaScript
   * [JavaScript - import & export](https://www.w3schools.com/js/js_modules)
   * [JavaScript - function](https://www.w3schools.com/js/js_functions.asp)
+  * [React ES6 Variables - const vs. let](https://www.w3schools.com/react/react_es6_variables.asp)
 * Comment Statement
   * [React Native or React Comment Statement](https://aboutreact.com/react-native-comments/)
   * [JavaScript Comment Statement](https://www.w3schools.com/js/js_comments.asp)
