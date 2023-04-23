@@ -23,6 +23,7 @@
   * [Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
   * [JavaScript Array map()](https://www.w3schools.com/jsref/jsref_map.asp)
   * [JavaScript RegExp](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+  * [The Power of Regular Expressions](https://www.hallme.com/blog/the-power-of-regular-expressions/)
   * [Spread Operator](https://www.w3schools.com/react/react_es6_spread.asp)
   * [JavaScript Scope](https://www.w3schools.com/js/js_scope.asp)
 
