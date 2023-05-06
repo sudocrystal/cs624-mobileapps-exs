@@ -1,14 +1,6 @@
 import React from 'react'
-import {
-  View,
-  Text,
-  StyleSheet,
-  TextInput,
-  TouchableOpacity
-} from 'react-native'
-
+import { View, Text, StyleSheet, TextInput, TouchableOpacity } from 'react-native'
 import uuidV4 from 'uuid/v4'
-
 import { colors } from '../theme'
 
 class AddCity extends React.Component {
