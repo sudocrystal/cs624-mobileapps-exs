@@ -1,14 +1,6 @@
 import React from 'react'
-import {
-  View,
-  Text,
-  StyleSheet,
-  TouchableWithoutFeedback,
-  ScrollView
-} from 'react-native'
-
+import { View, Text, StyleSheet, TouchableWithoutFeedback, ScrollView } from 'react-native'
 import CenterMessage from '../components/CenterMessage'
-
 import { colors } from '../theme'
 
 export default class Cities extends React.Component {
