@@ -1,6 +1,5 @@
 import React from 'react'
 import { View, Text, StyleSheet, TextInput, TouchableOpacity } from 'react-native'
-import uuidV4 from 'uuid/v4'
 import { colors } from '../theme'
 
 class AddCity extends React.Component {
@@ -16,8 +15,6 @@ class AddCity extends React.Component {
     const city = {
       city: this.state.city,
       country: this.state.country,
-      id: uuidV4(),
-      locations: []
     }
     this.props.route.params.addCity(city)
     this.setState({
