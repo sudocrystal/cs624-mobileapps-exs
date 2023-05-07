@@ -16,42 +16,42 @@
       * [Hello React Navigation](https://reactnavigation.org/docs/hello-react-navigation)
       * [Moving between screens](https://reactnavigation.org/docs/navigating)
       * [Passing parameters to routes](https://reactnavigation.org/docs/params)
-  * Tab-based Navigation
-    * [Minimal example of tab-based navigation](https://reactnavigation.org/docs/tab-based-navigation#minimal-example-of-tab-based-navigation)
-  * Drawer-based Navigation
-    * [Minimal example of drawer-based navigation](https://reactnavigation.org/docs/drawer-based-navigation#minimal-example-of-drawer-based-navigation)
-  * [React Navigation - NavigationContiner](https://reactnavigation.org/docs/navigation-container/)
+    * Tab-based Navigation
+      * [Minimal example of tab-based navigation](https://reactnavigation.org/docs/tab-based-navigation#minimal-example-of-tab-based-navigation)
+    * Drawer-based Navigation
+      * [Minimal example of drawer-based navigation](https://reactnavigation.org/docs/drawer-based-navigation#minimal-example-of-drawer-based-navigation)
+    * [React Navigation - NavigationContiner](https://reactnavigation.org/docs/navigation-container/)
 
   *JavaScript
-    * [JSON.stringfy()](https://www.w3schools.com/js/js_json_stringify.asp)
     * [JavaScript Merge Objects](https://www.scaler.com/topics/javascript-merge-objects/)
 
-
 ## Skills
+* Node
+  * node --version
+  * npx --version
+  * npm --version
+* Expo
   * Create a mobile app
-  * **expo init my-mobile-app**
-  * **cd my-mobile-app**
-  * **expo start --tunnel**
+    * **expo init my-mobile-app**
+    * **cd my-mobile-app**
+  * Install Expo CLI
+    * **npm install -g expo-cli**
+  * Create your account in [Expo](https://expo.dev/)
+  * Log in your Expo account
+    * **expo login**
+  * Update your dependencies
+    * **npm install**
+  * Start your Expo React native mobile app
+     * **expo start --tunnel**
 
-  * Install React Naviation.
-    * React Navigation is made up of some core utilities and those are then used by navigators to create the navigation structure in your app.
-    * **npm install @react-navigation/native**
-  * Install dependencies into an Expo managed project
-    * **npx expo install react-native-screens react-native-safe-area-context**
- 
-  * Install the stack-based navigation library.
-    * **npm install @react-navigation/native-stack**
+  * React Navigation
+    * Install React Naviation.
+      * React Navigation is made up of some core utilities and those are then used by navigators to create the navigation structure in your app.
+      * **npm install @react-navigation/native**
+    * Install dependencies into an Expo managed project
+      * **npx expo install react-native-screens react-native-safe-area-context**
+    * Install the tab-based navigation library.
+      * **npm install @react-navigation/bottom-tabs**
+    * Install the stack-based navigation library.
+      * **npm install @react-navigation/native-stack**
     
-  * Install the tab-based navigation library.
-    * **npm install @react-navigation/bottom-tabs**
-
-  * Install the drawer-based navigation library.
-    * **npm install @react-navigation/drawer**
-
-  * Upgrade expo sdk
-    * **npx expo upgrade**
-
-
-## Abilities
-* Analyzing Software Architeture - KC03
-* Createing a React Native App - PE03
