@@ -1,3 +1,4 @@
+// Listing 6.4 CenterMessage component
 import { Text, View, StyleSheet } from 'react-native'
 import { colors } from '../theme'
 

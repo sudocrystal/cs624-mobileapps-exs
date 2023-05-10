@@ -25,6 +25,10 @@
   *JavaScript
     * [JavaScript Merge Objects](https://www.scaler.com/topics/javascript-merge-objects/)
 
+  * [npm uuid](https://www.npmjs.com/package/uuidv4)
+    * A UUID (Universal Unique Identifier) is a 128-bit value used to uniquely identify an object or entity on the internet.
+
+
 ## Skills
 * Node
   * node --version
@@ -54,4 +58,19 @@
       * **npm install @react-navigation/bottom-tabs**
     * Install the stack-based navigation library.
       * **npm install @react-navigation/native-stack**
+  *uuid
+    * **npm install uuidv4**
+  
+  ### Techncial Challenge
+* WARNING: The legacy expo-cli does not support Node +17. Migrate to the versioned Expo CLI (npx expo).
+  * [Expo's Answer](https://github.com/expo/expo/issues/21026)
+    * Try downgrading the node version to 16 run this on your terminal
+    ```sh
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+    ```
+    * then use node version manager (nvm) to downgrade the current node run this code
+    ```sh
+    nvm install 16.17.0
+    ```
+   * after this command, you can now use "expo start" in your app.
     
