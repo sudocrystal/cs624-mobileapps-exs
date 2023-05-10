@@ -1,11 +1,9 @@
-// Listing 6.5 AddCity tab - Updated
+// Listing 6.5 AddCity tab
 // Listing 6.6 AddCity tab
 import React from 'react'
 import { View, Text, StyleSheet, TextInput, TouchableOpacity } from 'react-native'
+import uuidV4 from 'uuid/v4'
 import { colors } from '../theme'
-
-import "react-native-get-random-values";
-import { v4 as uuidV4} from 'uuid';
 
 class AddCity extends React.Component {
   state = {
