@@ -58,17 +58,6 @@
     * Install the stack-based navigation library.
       * **npm install @react-navigation/native-stack**
     
-  * UUID
-    * A UUID (Universal Unique Identifier) is a 128-bit value used to uniquely identify an object or entity on the internet.
-    * **npm install uuid**
-    
-    * [crypto.getRandomValues for React Native](https://www.npmjs.com/package/react-native-get-random-values)
-    * npm install react-native-get-random-values
-
-    * import "react-native-get-random-values";
-    * import { v4 as uuidv4 } from 'uuid';
-    * You can now use the uuidv4() and uuidv5() functions to generate UUIDs in your component.
-
   * [Async Stroage - Getting Started](https://react-native-async-storage.github.io/async-storage/docs/install/)
     * AsyncStorage is an unencrypted, asynchronous, persistent, key-value storage system that is global to the app. It should be used instead of LocalStorage.
     * With Expo CLI:
@@ -77,3 +66,5 @@
 
   * Upgrade expo sdk
     * **npx expo upgrade**
+
+  * [I get the warning "Non-serializable values were found in the navigation state"](https://reactnavigation.org/docs/troubleshooting/#i-get-the-warning-non-serializable-values-were-found-in-the-navigation-state)
