@@ -58,7 +58,7 @@
       * **npm install @react-navigation/bottom-tabs**
     * Install the stack-based navigation library.
       * **npm install @react-navigation/native-stack**
-  *uuid
+  * uuid (if the Expo version is  >= 47). 
     * **npm install uuidv4**
   
   ### Techncial Challenge
