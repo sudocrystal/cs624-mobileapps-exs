@@ -8,9 +8,9 @@ If you find any mistakes, please contact chungsam@cityu.edu.
 * Module 02 - Components and Styling
 * Module 03 - React Native Fundamentals I
 * Module 04 - React Native Fundamentals II
-* Module 05 - Design I
-* Module 06 - Design II
-* Module 07 - Navigation I
-* Module 08 - Navigation II
-* Module 09 - Networking 
-* Module 10 - MERN Full-Stack Mobile App Analysis
+* Module 05 - React Native Design I
+* Module 06 - React Native Design II
+* Module 07 - React Native Navigation I
+* Module 08 - React Native Navigation II
+* Module 09 - React Native Networking I
+* Module 10 - React Native Networking I
