@@ -9,6 +9,7 @@
 ## Resources
 * React Native
   * [React Native Tutorial - Networking](https://reactnative.dev/docs/network)
+  * [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
   * [React Native - ActivityIndicator](https://reactnative.dev/docs/activityindicator)
   * [React Native - FlatList](https://reactnative.dev/docs/flatlist)
   
@@ -20,6 +21,7 @@
 
 * JSON
   * [W3Schools - JS JSON](https://www.w3schools.com/js/js_json_intro.asp)
+  * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
   * [Movies](https://reactnative.dev/movies.json)
   * [Superheroes](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json)
 
